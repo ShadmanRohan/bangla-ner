@@ -2,3 +2,5 @@ torch
 numpy
 pandas
 requests
+jsonlines
+scikit-learn
